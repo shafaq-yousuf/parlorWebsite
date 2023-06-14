@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #a4c3b2;
+  cursor: pointer;
+}
+.navcolor {
+  color: white;
+  background-color: #4e4e4e;
+}
+
+.banner {
+  background-image: url(https://www.stylesgap.com/wp-content/uploads/2015/08/Indian-Bridal-Wedding-Makeup-Step-by-Step-Tutorial.jpg);
+  height: 100vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.banneropacity {
+  background-color: rgba(0, 0, 0, 0.8);
+  height: 100%;
+  width: 100%;
+}
+
+.textcolor {
+  color: rgb(190, 186, 186);
+}
+
+.paracolor {
+  color: rgb(38, 37, 37);
+}
+
+.textcol {
+  color: #75312f;
+}
+
+.bgcolor {
+  background-color: #75312f;
+}
+
+.bgwhite {
+  background-image: linear-gradient(90deg, #065981 0%, #b52323 100%);
+  color: rgb(164, 163, 163);
+}
+
+.textmuted {
+  color: bisque;
+}
+
+.round {
+  border: 2px dotted #75312f;
+  border-radius: 100px;
+}
+
+.rounds {
+  border: 3px solid #75312f;
+  border-radius: 100px;
+}
+
+.logo {
+  height: 100px;
+  width: 1000px;
+}
+
+.bgimg {
+  background-image: linear-gradient(90deg, #065981 0%, #b52323 100%);
+}
+
+.dealbutton {
+  height: 50px;
+  width: 170px;
+  border: 4px solid black;
+  padding: 6px 4px 9px 4px;
+  font-size: 22px;
+  margin: 4px;
+}
+
+input,
+select {
+  height: 50px;
+  border: 3px solid #516158;
+  background-color: #d5fde8;
+  padding: 10px;
+}
+
+input::placeholder,
+select {
+  color: #4e5d54;
+  font-weight: bold;
+}
+
+input[type="date"] {
+  color: #4e5d54;
+  font-weight: bold;
+}
+
+input[type="Submit"] {
+  color: #4e5d54;
+  font-weight: bold;
+  border: 3px solid #363736;
+  border-radius: 4px;
+}
+
+.infocard {
+  border: 4px solid #3c4e43;
+  border-radius: 25px 150px;
+  height: 250px;
+  background-image: linear-gradient(90deg, #065981 0%, #b52323 100%);
+}
+
+.lastpg {
+  background-color: black;
+  color: white;
+}
+
+.endlabel {
+  background-color: rgb(75, 75, 75);
+}
+
+.imgslider {
+  display: none;
+}
+
+.contactpage {
+  background-image: url(https://media.istockphoto.com/id/1174367741/photo/the-perfect-shade-for-a-special-day.jpg?s=612x612&w=0&k=20&c=vYKnHeFPWNNEGpFrv93aaLMrSpFAP6miQgGgJyLF20k=);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.iframe {
+  border: 4px solid #2a322d;
+  border-radius: 10px;
+}
+.gallerypage {
+  background-image: url(https://i0.wp.com/ranosheirlooms.com/wp-content/uploads/2022/12/Pakistani-Bridal-Dresses-in-United-Kingdom-UK.webp?fit=1216%2C810&ssl=1);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.border {
+  border-radius: 100px;
+}
+.offerpage {
+  background-image: url(https://www.theweddingfocus.com/wp-content/uploads/2022/05/Indian-bride-posing-with-nath-images-1024x683.jpg);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.offerbanner {
+  background-image: url(https://media.istockphoto.com/id/531328392/vector/beautiful-silhouette-of-long-hair-woman-on-pink-background.jpg?s=612x612&w=0&k=20&c=3yfbJ1wnkZ1_lwUrxFfJAGPid7NtPDtB6Zen7meuwhg=);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.servicebanner {
+  background-image: url(https://img.freepik.com/free-vector/background-with-female-hairdressing-salon_33099-1143.jpg);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+a:hover {
+  /* background-color: black;
+    border-radius: 100%; */
+  font-weight: bolder;
+  font-style: italic;
+}
